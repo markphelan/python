@@ -1,0 +1,5 @@
+This script will connect to a mailbox, read any new emails, check if they are from a list of known addresses, and forward it on to that list. 
+
+It's like a really basic mailing list. 
+
+It's not pretty but it works.
